@@ -1,4 +1,4 @@
-# 📌 Calculadora Interactiva
+# 📌 Contador de Clics (con Componentes de Clase)
 ¡Hola! Esta es una aplicación desarrollada con React, un contador de clics interactivo en el cual puedes hacer clic en un botón para incrementar el contador y reiniciar el contador con otro botón. Se usaron componentes de clase para explicar cómo convertir componentes funcionales a componentes de clase. 
 
 Esta aplicación fue creada por Estefania Cassingena Navone para el curso Aprende React Desde Cero publicado en el canal de YouTube freeCodeCamp Español. Su estructura inicial fue creada con el comando `npx create-react-app`.
